@@ -13,6 +13,7 @@ Machine learning, physics and controls development environment:
 
 Clone this repo recursively:
 ```
+git clone --recursively git@github.com:VertexStudio/simbotic-cortex.git
 ```
 
 ## Docker Setup
