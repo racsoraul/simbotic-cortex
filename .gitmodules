@@ -2,3 +2,6 @@
 [submodule "PX4/PX4/Firmware"]
 	path = PX4/PX4/Firmware
 	url = https://github.com/PX4/Firmware.git
+[submodule "AirSim/AirSim"]
+	path = AirSim/AirSim
+	url = git@github.com:VertexStudio/AirSim.git
